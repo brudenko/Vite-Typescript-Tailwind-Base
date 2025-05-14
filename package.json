@@ -1,5 +1,5 @@
 {
-  "name": "vite-ts-tailwind-base",
+  "name": "@brudenko/vite-ts-tailwind-base",
   "private": false,
   "version": "0.0.0",
   "type": "module",
